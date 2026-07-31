@@ -1,5 +1,5 @@
 const http=require('http');
-// we are going to be using http to create our first srrver
+// we are going to be using http to create our first server
 
 console.log(http)
 const PORT=3000;
